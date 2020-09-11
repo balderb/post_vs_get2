@@ -9,7 +9,7 @@
 <body>
     <h1>Get versus post method in php</h1>
     <form action= "index.php" method="post">
-	    <input type="checkbox" name="password"> <br>
+	password: <input type="password" name="password"> <br>
 	<input type="submit">
 </form>
 <br>
